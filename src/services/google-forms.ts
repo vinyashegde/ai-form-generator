@@ -1,5 +1,5 @@
-const CLIENT_ID = '212799217975-8cob20cmnnmqnf2g2sa67gffs4mcqa25.apps.googleusercontent.com';
-const API_KEY = 'AIzaSyBwXKpzS2syulUlt_OghvgoJkstPsRE70k';
+const CLIENT_ID = '';
+const API_KEY = '';
 const DISCOVERY_DOC = 'https://forms.googleapis.com/$discovery/rest?version=v1';
 const SCOPES = 'https://www.googleapis.com/auth/forms.body';
 
